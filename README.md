@@ -1,1 +1,1 @@
-# fuyu.github.com
+# fuyucn.github.io
